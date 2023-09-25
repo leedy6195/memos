@@ -201,7 +201,7 @@ xml 파일에 쓰인 엘리먼트들의 스키마가 나온다. 엔진은 어디
 ```
 
 서비스를 찾아야되는데
-<form target="FindProduct"> 과 <grid paginate-target="FindProduct"> 값을 맞춰주면 되는거 같다. 그러면 grid 내부의 <actions>가 폼 데이터를 받아서 작동하는듯?
+`<form target="FindProduct">` 과 `<grid paginate-target="FindProduct">` 값을 맞춰주면 되는거 같다. 그러면 grid 내부의 `<actions>`가 폼 데이터를 받아서 작동하는듯?
 
 performFindList라는 서비스는
 `/framework/common/servicedef/services.xml` 여기있다.
@@ -240,8 +240,8 @@ performFindList라는 서비스는
 ```
 
 
-<set field="entityName" value="Product"/> 해 주고 서비스를 호출하면 알아서 그 엔티티에 맞는 리스트를 리턴하는듯 하다.
-
+<set field="entityName" value="Product"/> 해 주고 서비스를 호출하면 알아서 그 엔티티에 맞는 리스트를 리턴하는듯 하다..
+`\framework\common\src\main\java\org\apache\ofbiz\common\FindServices.java`
 ```java
 public class FindServices {
 	public static Map<String, Object> performFindList(DispatchContext dctx, Map<String, Object> context) {
