@@ -11,11 +11,14 @@
             "id": "793df1d6c2660ebf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "ofbiz/Routing.md",
-                "mode": "source",
-                "source": false
+                "file": "ofbiz/Untitled.canvas",
+                "viewState": {
+                  "x": 0.2887947044578141,
+                  "y": 140.0635748049983,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ofbiz/Routing.md",
+                "file": "ofbiz/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ofbiz/Routing.md",
+                "file": "ofbiz/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ofbiz/Routing.md"
+                "file": "ofbiz/Untitled.canvas"
               }
             }
           }
@@ -148,6 +151,8 @@
   },
   "active": "793df1d6c2660ebf",
   "lastOpenFiles": [
+    "ofbiz/Routing.md",
+    "ofbiz/Untitled.canvas",
     "README.md",
     "test/GG.md",
     "test"
