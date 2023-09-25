@@ -239,8 +239,7 @@ performFindList라는 서비스는
 </services>
 ```
 
-
-<set field="entityName" value="Product"/> 해 주고 서비스를 호출하면 알아서 그 엔티티에 맞는 리스트를 리턴하는듯 하다..
+`<set field="entityName" value="Product"/>`  해 주고 서비스를 호출하면 알아서 그 엔티티에 맞는 리스트를 리턴하는듯 하다..
 `\framework\common\src\main\java\org\apache\ofbiz\common\FindServices.java`
 ```java
 public class FindServices {
