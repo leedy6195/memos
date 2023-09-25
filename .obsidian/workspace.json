@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ofbiz/CreateProduct.md",
+                "file": "ofbiz/FindProduct.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ofbiz/CreateProduct.md",
+                "file": "ofbiz/FindProduct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ofbiz/CreateProduct.md",
+                "file": "ofbiz/FindProduct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ofbiz/CreateProduct.md"
+                "file": "ofbiz/FindProduct.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "793df1d6c2660ebf",
   "lastOpenFiles": [
+    "ofbiz/CreateProduct.md",
     "ofbiz/FindProduct.md",
     "ofbiz/ofbiz-architecture.png",
     "Pasted image 20230925134244.png",
-    "ofbiz/CreateProduct.md",
     "README.md",
     "Untitled.md",
     "ofbiz/Untitled.canvas",
