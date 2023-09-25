@@ -67,7 +67,8 @@ Create New Product를 해보자
 </menu-item>
 ```
 하나만 분석해보자면, `<condition>`에 따라 display 여부를 결정하는 것 같으며
-`<and>`, `<or>`의 존재이유는 모르겠다. 그냥 넘어가자.
 `<if-has-permission permission="CATALOG" action="_CREATE"/>` 는 해당 유저가 CATALOG라는 자원에 CREATE 권한이 있는지를 뜻한다.
+
+
 
 
