@@ -14,7 +14,6 @@ Create New Product를 해보자
                     </or>
                 </and>
             </condition>
-            
             <link target="EditProduct"/>
         </menu-item>
         <menu-item name="newStore" title="${uiLabelMap.ProductCreateNewProductStore}">
@@ -51,49 +50,4 @@ Create New Product를 해보자
     </menu>
     
 </menus>
-```
-
-```xml
-    <menu name="MainActionMenu" menu-container-style="button-bar button-style-2" default-selected-style="selected">
-        <menu-item name="newProduct" title="${uiLabelMap.ProductCreateNewProduct}">
-            <condition>
-                <and>
-                    <or>
-                        <if-has-permission permission="CATALOG" action="_CREATE"/>
-                    </or>
-                </and>
-            </condition>
-            <link target="EditProduct"/>
-        </menu-item>
-        <menu-item name="newStore" title="${uiLabelMap.ProductCreateNewProductStore}">
-            <condition>
-                <and>
-                    <or>
-                        <if-has-permission permission="CATALOG" action="_CREATE"/>
-                    </or>
-                </and>
-            </condition>
-            <link target="EditProductStore"/>
-        </menu-item>
-        <menu-item name="newCatalog" title="${uiLabelMap.ProductCreateNewCatalog}">
-            <condition>
-                <and>
-                    <or>
-                        <if-has-permission permission="CATALOG" action="_CREATE"/>
-                    </or>
-                </and>
-            </condition>
-            <link target="EditProdCatalog"/>
-        </menu-item>
-        <menu-item name="newCategory" title="${uiLabelMap.ProductCreateNewCategory}">
-            <condition>
-                <and>
-                    <or>
-                        <if-has-permission permission="CATALOG" action="_CREATE"/>
-                    </or>
-                </and>
-            </condition>
-            <link target="EditCategory"/>
-        </menu-item>
-    </menu>
 ```
