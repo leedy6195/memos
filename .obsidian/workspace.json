@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "793df1d6c2660ebf",
+            "id": "88b44dfd813a260e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ofbiz/FindProduct.md",
+                "file": "ofbiz/Replace name and text directory-recursively.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 253.5
   },
   "right": {
     "id": "978bca666e53a18f",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ofbiz/FindProduct.md",
+                "file": "ofbiz/Replace name and text directory-recursively.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ofbiz/FindProduct.md",
+                "file": "ofbiz/Replace name and text directory-recursively.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ofbiz/FindProduct.md"
+                "file": "ofbiz/Replace name and text directory-recursively.md"
               }
             }
           }
@@ -146,14 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "793df1d6c2660ebf",
+  "active": "88b44dfd813a260e",
   "lastOpenFiles": [
-    "ofbiz/CreateProduct.md",
+    "README.md",
+    "ofbiz/Replace name and text directory-recursively.md",
     "ofbiz/FindProduct.md",
     "ofbiz/ofbiz-architecture.png",
-    "Pasted image 20230925134244.png",
-    "README.md",
+    "Untitled",
     "Untitled.md",
+    "Pasted image 20230925134244.png",
+    "ofbiz/CreateProduct.md",
     "ofbiz/Untitled.canvas",
     "test/GG.md",
     "test"
