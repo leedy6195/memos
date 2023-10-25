@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ofbiz/Replace name and content directory-recursively.md",
+                "file": "ofbiz/CreateProduct.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ofbiz/Replace name and content directory-recursively.md",
+                "file": "ofbiz/CreateProduct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ofbiz/Replace name and content directory-recursively.md",
+                "file": "ofbiz/CreateProduct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ofbiz/Replace name and content directory-recursively.md"
+                "file": "ofbiz/CreateProduct.md"
               }
             }
           }
@@ -160,10 +160,11 @@
   },
   "active": "88b44dfd813a260e",
   "lastOpenFiles": [
-    "README.md",
-    "ofbiz/Replace name and content directory-recursively.md",
-    "ofbiz/ofbiz-architecture.png",
     "ofbiz/FindProduct.md",
+    "ofbiz/ofbiz-architecture.png",
+    "ofbiz/README.md",
+    "ofbiz/Replace name and content directory-recursively.md",
+    "README.md",
     "ofbiz/CreateProduct.md",
     "Untitled",
     "Untitled.md",
