@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ofbiz/CreateProduct.md",
+                "file": "ofbiz/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ofbiz/CreateProduct.md",
+                "file": "ofbiz/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ofbiz/CreateProduct.md",
+                "file": "ofbiz/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ofbiz/CreateProduct.md"
+                "file": "ofbiz/README.md"
               }
             }
           }
@@ -160,12 +160,12 @@
   },
   "active": "88b44dfd813a260e",
   "lastOpenFiles": [
+    "ofbiz/CreateProduct.md",
     "ofbiz/FindProduct.md",
     "ofbiz/ofbiz-architecture.png",
     "ofbiz/README.md",
     "ofbiz/Replace name and content directory-recursively.md",
     "README.md",
-    "ofbiz/CreateProduct.md",
     "Untitled",
     "Untitled.md",
     "Pasted image 20230925134244.png",
