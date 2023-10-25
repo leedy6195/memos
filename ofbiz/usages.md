@@ -1,2 +1,3 @@
-[[CreateProduct]]
+[[CreateProduct]]  
 [[FindProduct]]
+[[API sample]]

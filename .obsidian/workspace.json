@@ -11,8 +11,12 @@
             "id": "88b44dfd813a260e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -21,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ofbiz/API sample.md",
+                "file": "ofbiz/CreateProduct.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ofbiz/API sample.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ofbiz/API sample.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ofbiz/API sample.md"
+                "file": "README.md"
               }
             }
           }
@@ -155,20 +158,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d22708fe77792596",
+  "active": "88b44dfd813a260e",
   "lastOpenFiles": [
-    "ofbiz/usages.md",
-    "ofbiz/API sample.md",
-    "README.md",
     "ofbiz/Replace name and content directory-recursively.md",
     "ofbiz/README.md",
-    "Untitled.canvas",
     "ofbiz/CreateProduct.md",
+    "Attached file",
+    "Attached file/Pasted image 20230925134244.png",
+    "Pasted image 20230925134244.png.md",
+    "README.md",
+    "ofbiz/usages.md",
+    "ofbiz/API sample.md",
+    "Untitled.canvas",
     "ofbiz/FindProduct.md",
     "ofbiz/ofbiz-architecture.png",
     "Untitled",
     "Untitled.md",
-    "Pasted image 20230925134244.png",
     "ofbiz/Untitled.canvas",
     "test/GG.md",
     "test"
