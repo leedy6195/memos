@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ofbiz/Replace name and content directory-recursively.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,16 +158,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d22708fe77792596",
+  "active": "88b44dfd813a260e",
   "lastOpenFiles": [
     "ofbiz/ofbiz-architecture.png",
-    "README.md",
-    "ofbiz/Replace name and content directory-recursively.md",
     "ofbiz/FindProduct.md",
+    "ofbiz/CreateProduct.md",
+    "ofbiz/Replace name and content directory-recursively.md",
+    "README.md",
     "Untitled",
     "Untitled.md",
     "Pasted image 20230925134244.png",
-    "ofbiz/CreateProduct.md",
     "ofbiz/Untitled.canvas",
     "test/GG.md",
     "test"
